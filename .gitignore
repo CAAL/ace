@@ -19,3 +19,6 @@ jam/
 .git-ref
 npm-debug.log
 deps/
+
+# Ignore generated parser files
+/lib/ace/mode/ccs
