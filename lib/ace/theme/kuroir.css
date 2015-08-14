@@ -67,6 +67,10 @@
   color: #CD6839
 }
 
+.ace-kuroir .ace_invisible {
+  color: #BFBFBF
+}
+
 .ace-kuroir .ace_fold {
   border-color: #363636
 }
